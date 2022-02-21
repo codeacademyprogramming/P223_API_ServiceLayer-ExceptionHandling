@@ -1,0 +1,15 @@
+C:\Users\Eagha\Desktop\CodeLessons\P223\P223ShopProject\Shop.Service\bin\Debug\netcoreapp3.1\Shop.Service.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P223\P223ShopProject\Shop.Service\bin\Debug\netcoreapp3.1\Shop.Service.dll
+C:\Users\Eagha\Desktop\CodeLessons\P223\P223ShopProject\Shop.Service\bin\Debug\netcoreapp3.1\Shop.Service.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P223\P223ShopProject\Shop.Service\bin\Debug\netcoreapp3.1\Shop.Core.dll
+C:\Users\Eagha\Desktop\CodeLessons\P223\P223ShopProject\Shop.Service\bin\Debug\netcoreapp3.1\Shop.Data.dll
+C:\Users\Eagha\Desktop\CodeLessons\P223\P223ShopProject\Shop.Service\bin\Debug\netcoreapp3.1\Shop.Data.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P223\P223ShopProject\Shop.Service\bin\Debug\netcoreapp3.1\Shop.Core.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P223\P223ShopProject\Shop.Service\obj\Debug\netcoreapp3.1\Shop.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P223\P223ShopProject\Shop.Service\obj\Debug\netcoreapp3.1\Shop.Service.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P223\P223ShopProject\Shop.Service\obj\Debug\netcoreapp3.1\Shop.Service.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P223\P223ShopProject\Shop.Service\obj\Debug\netcoreapp3.1\Shop.Service.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P223\P223ShopProject\Shop.Service\obj\Debug\netcoreapp3.1\Shop.Service.csproj.CopyComplete
+C:\Users\Eagha\Desktop\CodeLessons\P223\P223ShopProject\Shop.Service\obj\Debug\netcoreapp3.1\Shop.Service.dll
+C:\Users\Eagha\Desktop\CodeLessons\P223\P223ShopProject\Shop.Service\obj\Debug\netcoreapp3.1\Shop.Service.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P223\P223ShopProject\Shop.Service\obj\Debug\netcoreapp3.1\Shop.Service.csproj.AssemblyReference.cache
